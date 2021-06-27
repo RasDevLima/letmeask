@@ -5,7 +5,7 @@
 <h2>🚀 <b>Tecnologias usadas</b></h2>
 
 React\
-Typescript\
+TypeScript\
 Hooks\
 Firebase
 
